@@ -30,6 +30,8 @@ Telegram 搜索群组
 万象搜索 — 强大的流量资源
 万象搜索 是Telegram中文用户必备工具，提供海量频道和群组，帮助您快速找到所需的资源。
 
+![image](https://github.com/user-attachments/assets/ffc84989-e7bc-42ce-8894-d2f03f9d234b)
+
 注意：项目中列出的频道/群组/机器人等可能包含部分敏感内容。请自觉遵守当地法律法规，谨防第三方链接，安全第一。
 
 # Telegram群组 是什么？
